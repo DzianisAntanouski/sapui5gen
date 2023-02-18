@@ -1,0 +1,24 @@
+{
+  "name": "sapui5gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DzianisAntanouski/sapui5gen.git"
+  },
+  "keywords": [
+    "sapui5",
+    "newprojsap",
+    "emptyprojsap"
+  ],
+  "author": "Dzianis Antanouski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DzianisAntanouski/sapui5gen/issues"
+  },
+  "homepage": "https://github.com/DzianisAntanouski/sapui5gen#readme"
+}
